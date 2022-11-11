@@ -7,4 +7,8 @@
     <string name="btnvoltar">Voltar ao Menu</string>
     <string name="btnverpaises">Ver Paises</string>
     <string name="tituloverbandeiras">Ver Países</string>
+    <string name="conversor">Converter Valores</string>
+    <string name="valorConv">Unidade Inicial</string>
+    <string name="valorconv">Unidade final</string>
+    <string name="ConvertVal">Converter Valores</string>
 </resources>

@@ -26,4 +26,10 @@ public class Menu extends AppCompatActivity {
         startActivity(it);
         finish();
     }
+
+    public  void novoConversor(View v){
+        Intent it = new Intent(Menu.this,Conversor.class);
+        startActivity(it);
+        finish();
+    }
 }
